@@ -5,3 +5,5 @@ My website is nothing particularly new, but it is a working multilingual example
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JDLeongomez&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLeongomez)](https://github.com/anuraghazra/github-readme-stats)
