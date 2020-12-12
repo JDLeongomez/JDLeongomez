@@ -4,7 +4,7 @@
 
 Hi, I'm using github mainly to host my personal website ([jdleongomez.info](https://jdleongomez.info/)) created using the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo (previously the Academic theme for Hugo). Please [check it](https://jdleongomez.info/) if you want to know more about me or my work. 
 
-My website is nothing particularly new, but it is a working multilingual example ([English](https://jdleongomez.info/en/) and [Spanish](https://jdleongomez.info/es/)) of a [Wowchemy Website Builder](https://wowchemy.com/) personal academic site created, with a few tweaks, like adding both [Altmetric](https://www.altmetric.com/) and [Dimensions](https://www.dimensions.ai/) badges below the abstract to my publications; see an example [here](https://jdleongomez.info/en/publication/leongomez2014/):
+My website is nothing particularly new, but it is a working multilingual example ([English](https://jdleongomez.info/en/) and [Spanish](https://jdleongomez.info/es/)) of a [Wowchemy Website Builder](https://wowchemy.com/) personal academic site, with a few tweaks, like adding both [Altmetric](https://www.altmetric.com/) and [Dimensions](https://www.dimensions.ai/) badges below the abstract to my publications; see an example [here](https://jdleongomez.info/en/publication/leongomez2014/):
 
 <p align="center">
   <img width="460" src="https://github.com/JDLeongomez/JDLeongomez/blob/master/Bagdes.png">
