@@ -1,4 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JDLeongomez&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLeongomez&theme=vue&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDLeongomez&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=prs,contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDLeongomez&theme=vue&hide_border=true&layout=compact" />
+</a>
 
 ---
 
