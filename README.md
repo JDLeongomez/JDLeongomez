@@ -6,7 +6,7 @@ I am an Associate Professor and Researcher at [***EvoCo**: Human Behaviour and E
 
 My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, to promote reproducibility and open science.
 
-[![Juan David](https://github.com/JDLeongomez/JDLeongomez/assets/45215832/9057e144-5565-4e18-bb53-298b239003e8)](https://jdleongomez.info/)
+[![Juan David](https://github.com/JDLeongomez/JDLeongomez/assets/45215832/bab9a290-17e1-44ee-9a4f-49fdc5db1e31)](https://jdleongomez.info/)
 
 ### [Investigación Abierta](https://www.youtube.com/@InvestigacionAbierta) (YouTube channel)
 
