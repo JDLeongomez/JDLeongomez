@@ -10,6 +10,6 @@ My research interests include mate choice and human vocal communication, with an
 
 ### [Investigación Abierta](https://www.youtube.com/@InvestigacionAbierta) (YouTube channel)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube&label=YouTube%20views)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube&label=YouTube%20views)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube)
 
 Investigación Abierta ["*Open Research*"] is a YouTube channel in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](https://jdleongomez.info/en/post/).
